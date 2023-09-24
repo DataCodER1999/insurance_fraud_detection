@@ -1,0 +1,9 @@
+[2023-09-24 13:00:53,779] root - INFO - ==================================================
+[2023-09-24 13:00:53,779] root - INFO - Initiate Data Ingestion config
+[2023-09-24 13:00:53,780] root - INFO - ==================================================
+[2023-09-24 13:00:53,810] root - INFO - Download data C:\Users\malho\OneDrive\Desktop\Projects\End_to_End\Machine_Learning\insurance_fraud_detection\Data\insuranceFraud.csv
+[2023-09-24 13:00:53,810] root - INFO - Dataset read as pandas Dataframe
+[2023-09-24 13:00:53,852] root - INFO - train test split
+[2023-09-24 13:00:53,882] root - INFO - train data path, C:\Users\malho\OneDrive\Desktop\Projects\End_to_End\Machine_Learning\insurance_fraud_detection\Artifact\data_ingestion\2023-09-24 13-00-51\ingested_dir\train.csv
+[2023-09-24 13:00:53,892] root - INFO - test data path, C:\Users\malho\OneDrive\Desktop\Projects\End_to_End\Machine_Learning\insurance_fraud_detection\Artifact\data_ingestion\2023-09-24 13-00-51\ingested_dir\test.csv
+[2023-09-24 13:00:53,892] root - INFO - data ingestion complete
